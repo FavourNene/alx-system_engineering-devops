@@ -1,1 +1,1 @@
-Absolute path script
+Who amI
